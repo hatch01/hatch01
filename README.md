@@ -49,6 +49,10 @@
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+## 📊 Wakatime Stats:
+
+<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hatch01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&refresh=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hatch01&theme=dark&hide_border=false&refresh=true)<br/>
