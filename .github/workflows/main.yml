@@ -18,4 +18,6 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
+          CODE_LANG: dart
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           
