@@ -73,7 +73,6 @@ Other                     8 hrs 52 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hatch01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&refresh=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hatch01&theme=dark&hide_border=false&refresh=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hatch01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&refresh=true)
 ![](https://github-profile-trophy.vercel.app/?username=hatch01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
