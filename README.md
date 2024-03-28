@@ -49,6 +49,12 @@
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+<p align="center">
+  <a href="https://github.com/SuperSandro2000/">
+    <img src="https://raw.githubusercontent.com/hatch01/hatch01/master/github-metrics.svg" />
+  </a>
+</p>
+
 ## 📊 Wakatime Stats:
 
 <!--START_SECTION:waka-->
