@@ -44,9 +44,9 @@ jobs:
           plugin_achievements_threshold: B
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_skipped: GOD-GOG
+          plugin_languages: no
+          #plugin_languages_details: percentage
+          #plugin_languages_skipped: GOD-GOG
           plugin_lines: yes
           #plugin_notable: yes
           #plugin_notable_filter: stars:>100
