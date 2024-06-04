@@ -12,7 +12,7 @@
 - 📱 Developing Onyx, an app to gather UCBL services on mobile
 - 🎮 Playing CTF when I have time
 - 🌱 Always learning something new
-- 🦀 Currently immersing myself in Rust
+- ❄️ Currently immersing myself in Nix
 ## the things that I love
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
